@@ -1,0 +1,4 @@
+FROM almalinux
+LABEL AUTHOR="MAHESH" \
+        COURSES="DOCKER" \
+        DURATION="25 HRS"
