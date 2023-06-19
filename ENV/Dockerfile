@@ -1,0 +1,4 @@
+FROM almalinuc
+ENV AUTHOR="MAHESH"\
+    DURATION="25 HRS"\
+    COURSE="DOCKER"
