@@ -1,4 +1,4 @@
-FROM almalinuc
+FROM almalinux
 ENV AUTHOR="MAHESH"\
     DURATION="25 HRS"\
     COURSE="DOCKER"
