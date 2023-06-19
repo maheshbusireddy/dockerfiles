@@ -1,2 +1,2 @@
 ### CMD
-CMD is the instruction that runs the containe
+CMD is the instruction that runs the container.
